@@ -3,7 +3,7 @@
 
 -  Free and open-source relational database management system (RDBMS) emphasizing extensibility and SQL compliance.
 - Originally named POSTGRES, referring to its origins as a successor to the Ingres database developed at the University of California, Berkeley  In 1996.
-- 
+
  ## Key Difference :
  
  - PostgreSQL is an Object Relational Database Management System (ORDBMS) whereas MySQL is a community driven DBMS system.
