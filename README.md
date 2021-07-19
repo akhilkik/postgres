@@ -8,7 +8,6 @@
  
  - PostgreSQL is an Object Relational Database Management System (ORDBMS) whereas MySQL is a community driven DBMS system.
  - PostgreSQL support modern applications feature like JSON, XML etc. while MySQL only supports JSON.
- - PostgreSQL is complete ACID compliant while MySQL is only ACID compliant when used with InnoDB and NDB.
  - PostgreSQL supports Materialized Views whereas MySQL doesn’t supports Materialized Views.
 
 ![image](https://user-images.githubusercontent.com/85165326/126125408-b4722f1a-b655-4b3d-aa16-cb82b19cdc65.png)
